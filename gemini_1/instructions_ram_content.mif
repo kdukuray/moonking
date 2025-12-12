@@ -1,0 +1,39 @@
+DEPTH = 1024; -- The size of memory in words 
+WIDTH = 32;   -- The size of data in bits 
+ADDRESS_RADIX = HEX; -- The radix for address values 
+DATA_RADIX = HEX;    -- The radix for data values 
+
+CONTENT 
+BEGIN
+
+-- 0: addi $s1, $zero, 5  (Op: 8, rs: 0, rt: 17, imm: 5)
+00 : 20110005;
+
+-- 1: addi $s2, $zero, 10 (Op: 8, rs: 0, rt: 18, imm: 10)
+01 : 2012000A;
+
+-- 2: add $s3, $s1, $s2   (Op: 0, rs: 17, rt: 18, rd: 19, funct: 32)
+02 : 02329820;
+
+-- 3: addi $s4, $zero, 0  (Op: 8, rs: 0, rt: 20, imm: 0)
+03 : 20140000;
+
+-- 4: sw $s3, 1($s4)      (Op: 43, rs: 20, rt: 19, imm: 1)
+04 : AC930001;
+
+-- 5: lw $s5, 1($s4)      (Op: 35, rs: 20, rt: 21, imm: 1)
+05 : 8C950001;
+
+-- 6: add $s6, $s3, $s5   (Op: 0, rs: 19, rt: 21, rd: 22, funct: 32)
+06 : 0275B020;
+
+-- 7: nor $s1, $s6, $s5   (Op: 0, rs: 22, rt: 21, rd: 17, funct: 39)
+07 : 02D58827;
+
+-- 8: j 1                 (Op: 2, target: 1)
+08 : 08000001;
+
+-- Fill the rest with zeros
+[09..3FF] : 00000000;
+
+END;
