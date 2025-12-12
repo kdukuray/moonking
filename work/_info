@@ -1,0 +1,1043 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/lushi/Desktop/VHDL/lab9
+Ealu_1bit
+Z1 w1743127952
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/lushi/Desktop/VHDL/lab9/ALU_1bit.vhd
+Z5 FC:/Users/lushi/Desktop/VHDL/lab9/ALU_1bit.vhd
+l0
+L4
+V9a0g`HH_OgnlK[6Vz=Ua;0
+!s100 NRL1]9AQiI41VVYDWlOKO3
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1744489909
+!i10b 1
+Z8 !s108 1744489909.000000
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/ALU_1bit.vhd|
+Z10 !s107 C:/Users/lushi/Desktop/VHDL/lab9/ALU_1bit.vhd|
+!i113 1
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Aalu_1bit_arch
+R2
+R3
+DEx4 work 8 alu_1bit 0 22 9a0g`HH_OgnlK[6Vz=Ua;0
+l45
+L17
+V8:?QR_HY2h1i0T4ISU9d31
+!s100 51bo3R5jChO;8];>BM=AN0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ealu_1bit_msb
+Z13 w1743127642
+R2
+R3
+R0
+Z14 8C:/Users/lushi/Desktop/VHDL/lab9/ALU_1bit_MSB.vhd
+Z15 FC:/Users/lushi/Desktop/VHDL/lab9/ALU_1bit_MSB.vhd
+l0
+L4
+VW@U0<NFS:E?L@zEYc8KEi1
+!s100 7<2^odj:j]a`n4_Ckojh[0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/ALU_1bit_MSB.vhd|
+Z17 !s107 C:/Users/lushi/Desktop/VHDL/lab9/ALU_1bit_MSB.vhd|
+!i113 1
+R11
+R12
+Aalu_1bit_msb_arch
+R2
+R3
+DEx4 work 12 alu_1bit_msb 0 22 W@U0<NFS:E?L@zEYc8KEi1
+l47
+L18
+VM<3<2BhGnN_FDXDRjZNPN2
+!s100 FHj3`NFl`FhKNUZm@lWEV0
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Ealu_32bit
+Z18 w1743628871
+R2
+R3
+R0
+Z19 8C:/Users/lushi/Desktop/VHDL/lab9/ALU_32bit.vhd
+Z20 FC:/Users/lushi/Desktop/VHDL/lab9/ALU_32bit.vhd
+l0
+L4
+VlnL?4]7^7:UBkP;QgNYK[0
+!s100 8AIGE@:`GjFcCfV:[_d[B0
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/ALU_32bit.vhd|
+Z22 !s107 C:/Users/lushi/Desktop/VHDL/lab9/ALU_32bit.vhd|
+!i113 1
+R11
+R12
+Aalu_32bit_arch
+R2
+R3
+DEx4 work 9 alu_32bit 0 22 lnL?4]7^7:UBkP;QgNYK[0
+l48
+L15
+V5PQUAm7>6`k>m>BWa`:Bm0
+!s100 g_C<;aEFU_XYf4aUZ5Al50
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Ealu_32bit_tb
+Z23 w1743631842
+Z24 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z25 8C:/Users/lushi/Desktop/VHDL/lab9/ALU_32bit_tb.vhd
+Z26 FC:/Users/lushi/Desktop/VHDL/lab9/ALU_32bit_tb.vhd
+l0
+L5
+V7MEf3fjRBGdekOVOPOLTl0
+!s100 KadddPhzUIG7Sz0:^me1E0
+R6
+32
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/ALU_32bit_tb.vhd|
+Z28 !s107 C:/Users/lushi/Desktop/VHDL/lab9/ALU_32bit_tb.vhd|
+!i113 1
+R11
+R12
+Aalu_32bit_tb_arch
+R24
+R2
+R3
+DEx4 work 12 alu_32bit_tb 0 22 7MEf3fjRBGdekOVOPOLTl0
+l28
+L8
+VVin[@dzgQ4EBcA?gF9k2R1
+!s100 ThP:_@k@oH`UBQPLj4N1G3
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Ealu_control_unit
+Z29 w1744372186
+R2
+R3
+R0
+Z30 8C:/Users/lushi/Desktop/VHDL/lab9/ALU_Control_Unit.vhd
+Z31 FC:/Users/lushi/Desktop/VHDL/lab9/ALU_Control_Unit.vhd
+l0
+L4
+VS?g>2b4k5CaNkD@7cc3Ze3
+!s100 JC`OjSem@BQcGO[R:dhVF2
+R6
+32
+R7
+!i10b 1
+R8
+Z32 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/ALU_Control_Unit.vhd|
+Z33 !s107 C:/Users/lushi/Desktop/VHDL/lab9/ALU_Control_Unit.vhd|
+!i113 1
+R11
+R12
+Aalu_control_unit_arch
+R2
+R3
+DEx4 work 16 alu_control_unit 0 22 S?g>2b4k5CaNkD@7cc3Ze3
+l15
+L11
+V[zZOF]j=09?>_`BWd]f7b1
+!s100 K:4:zHGB?HiNkZP=O0:0m0
+R6
+32
+R7
+!i10b 1
+R8
+R32
+R33
+!i113 1
+R11
+R12
+Econtrol_unit
+Z34 w1744370183
+R2
+R3
+R0
+Z35 8C:/Users/lushi/Desktop/VHDL/lab9/control_unit.vhd
+Z36 FC:/Users/lushi/Desktop/VHDL/lab9/control_unit.vhd
+l0
+L4
+VN4lgVfBG6M?CTBnEN`>lH2
+!s100 G5bIF5DKhI@z0n:B[8]5l1
+R6
+32
+R7
+!i10b 1
+R8
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/control_unit.vhd|
+Z38 !s107 C:/Users/lushi/Desktop/VHDL/lab9/control_unit.vhd|
+!i113 1
+R11
+R12
+Acontrol_unit_arch
+R2
+R3
+DEx4 work 12 control_unit 0 22 N4lgVfBG6M?CTBnEN`>lH2
+l21
+L17
+VnR]P?ROWR`hWTd<?TT5Ee1
+!s100 :Z5L3<[G18Gk_o;?iGF[h1
+R6
+32
+Z39 !s110 1744489910
+!i10b 1
+R8
+R37
+R38
+!i113 1
+R11
+R12
+Ecpu_mips
+w1743777702
+Z40 DPx4 work 13 my_components 0 22 =1QY[8oSf[MGzKElhC=N;2
+Z41 DPx4 work 8 my_types 0 22 I[=nP2f8<dDCXfXhP[[@60
+R24
+R2
+R3
+R0
+8C:/Users/lushi/Desktop/VHDL/lab9/cpu_mips.vhd
+FC:/Users/lushi/Desktop/VHDL/lab9/cpu_mips.vhd
+l0
+L9
+VAoH]IW;;HfYFk2DOWjTZj3
+!s100 lWi:U]4gUa2G@9CU>E5R71
+R6
+32
+R39
+!i10b 1
+Z42 !s108 1744489910.000000
+!s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/cpu_mips.vhd|
+!s107 C:/Users/lushi/Desktop/VHDL/lab9/cpu_mips.vhd|
+!i113 1
+R11
+R12
+Ed_flipflop
+Z43 w1742509154
+R2
+R3
+R0
+Z44 8C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop.vhd
+Z45 FC:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop.vhd
+l0
+L4
+V9d>IE=b3ZQ3@e4Wb>[@GZ3
+!s100 BXV>HLVgN`0N7baYIQ>mA3
+R6
+32
+R39
+!i10b 1
+R42
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop.vhd|
+Z47 !s107 C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop.vhd|
+!i113 1
+R11
+R12
+Ad_flipflop_arch
+R2
+R3
+DEx4 work 10 d_flipflop 0 22 9d>IE=b3ZQ3@e4Wb>[@GZ3
+l19
+L11
+VUalYh4IcBo;RX9h`N=8M01
+!s100 8Ccez7Kb68IjJKdaSQjUa1
+R6
+32
+R39
+!i10b 1
+R42
+R46
+R47
+!i113 1
+R11
+R12
+Ed_flipflop_negative_edge
+Z48 w1744489751
+R2
+R3
+R0
+Z49 8C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop_Negative_Edge.vhd
+Z50 FC:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop_Negative_Edge.vhd
+l0
+L4
+VIgkC>>S8IoNef]1EnT>Wl3
+!s100 ]gAek2:VE93>k?CF`j?cH3
+R6
+32
+R39
+!i10b 1
+R42
+Z51 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop_Negative_Edge.vhd|
+Z52 !s107 C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop_Negative_Edge.vhd|
+!i113 1
+R11
+R12
+Ad_flipflop_negative_edge_arch
+R2
+R3
+DEx4 work 24 d_flipflop_negative_edge 0 22 IgkC>>S8IoNef]1EnT>Wl3
+l13
+L11
+V218OlVNMb3nWHZZNKl2Fj3
+!s100 K6;P^Nz?BI]FD?_CG3_kT0
+R6
+32
+R39
+!i10b 1
+R42
+R51
+R52
+!i113 1
+R11
+R12
+Ed_flipflop_re
+Z53 w1742509156
+R2
+R3
+R0
+Z54 8C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop_Rising_edge.vhd
+Z55 FC:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop_Rising_edge.vhd
+l0
+L4
+Vh;hS5M=_aMU2>^_YbW5;z2
+!s100 JoDDhi[9gISVPHY7i76gl2
+R6
+32
+R39
+!i10b 1
+R42
+Z56 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop_Rising_edge.vhd|
+Z57 !s107 C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop_Rising_edge.vhd|
+!i113 1
+R11
+R12
+Ad_flipflop_arch
+R2
+R3
+DEx4 work 13 d_flipflop_re 0 22 h;hS5M=_aMU2>^_YbW5;z2
+l19
+L11
+VLnBfB5S2QL8B[YE1J[K;Z2
+!s100 >5[_Hc;@9`c]g9R;>@^o:2
+R6
+32
+R39
+!i10b 1
+R42
+R56
+R57
+!i113 1
+R11
+R12
+Ed_latch
+R53
+R2
+R3
+R0
+Z58 8C:/Users/lushi/Desktop/VHDL/lab9/D_Latch.vhd
+Z59 FC:/Users/lushi/Desktop/VHDL/lab9/D_Latch.vhd
+l0
+L4
+V]fgliB>56NGfL`=cV]^Qm0
+!s100 0M7?JSO^T`he_5<S:Cf@L0
+R6
+32
+R39
+!i10b 1
+R42
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/D_Latch.vhd|
+Z61 !s107 C:/Users/lushi/Desktop/VHDL/lab9/D_Latch.vhd|
+!i113 1
+R11
+R12
+Ad_latch_arch
+R2
+R3
+DEx4 work 7 d_latch 0 22 ]fgliB>56NGfL`=cV]^Qm0
+l20
+L11
+V0<C:cIfB^`4O4X7`DW1jT3
+!s100 8cgcG]VN4n]>U^_@8ZV<C3
+R6
+32
+R39
+!i10b 1
+R42
+R60
+R61
+!i113 1
+R11
+R12
+Edata_memory
+Z62 w1744434885
+Z63 DPx9 altera_mf 20 altera_mf_components 0 22 gV:l9C^?PSb6]b5V?_jR@3
+R2
+R3
+R0
+Z64 8C:/Users/lushi/Desktop/VHDL/lab9/data_memory.vhd
+Z65 FC:/Users/lushi/Desktop/VHDL/lab9/data_memory.vhd
+l0
+L42
+V?M7Jl[oGiIPX7KPa:UFi81
+!s100 G?WPNNDUcNo<PzZ86O2[Z0
+R6
+32
+R39
+!i10b 1
+R42
+Z66 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/data_memory.vhd|
+Z67 !s107 C:/Users/lushi/Desktop/VHDL/lab9/data_memory.vhd|
+!i113 1
+R11
+R12
+Asyn
+R63
+R2
+R3
+DEx4 work 11 data_memory 0 22 ?M7Jl[oGiIPX7KPa:UFi81
+l59
+L55
+VO=P5DgmEk<2YV96B`_YGU3
+!s100 7[=z>^mO[kc?9Y9z8APPg3
+R6
+32
+R39
+!i10b 1
+R42
+R66
+R67
+!i113 1
+R11
+R12
+Edecoder
+Z68 w1741518583
+R24
+R2
+R3
+R0
+Z69 8C:/Users/lushi/Desktop/VHDL/lab9/decoder.vhd
+Z70 FC:/Users/lushi/Desktop/VHDL/lab9/decoder.vhd
+l0
+L5
+VD4_^:m<Y]e0U5]I:aYS;11
+!s100 YVYFLE>Z;@XhmGk6Dh<XN3
+R6
+32
+R39
+!i10b 1
+R42
+Z71 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/decoder.vhd|
+Z72 !s107 C:/Users/lushi/Desktop/VHDL/lab9/decoder.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R24
+R2
+R3
+DEx4 work 7 decoder 0 22 D4_^:m<Y]e0U5]I:aYS;11
+l17
+L16
+Vc57_<J?=:JWLO2<RlICUX0
+!s100 <XY^dgDCE8VGG0AcNROK22
+R6
+32
+R39
+!i10b 1
+R42
+R71
+R72
+!i113 1
+R11
+R12
+Efull_adder
+Z73 w1740152471
+R2
+R3
+R0
+Z74 8C:/Users/lushi/Desktop/VHDL/lab9/full_adder.vhd
+Z75 FC:/Users/lushi/Desktop/VHDL/lab9/full_adder.vhd
+l0
+L4
+VOFM;UFDEE@SLK=>fbc9;n2
+!s100 Sa^nRH[mIfIkK;gfLz;<S1
+R6
+32
+R39
+!i10b 1
+R42
+Z76 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/full_adder.vhd|
+Z77 !s107 C:/Users/lushi/Desktop/VHDL/lab9/full_adder.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 10 full_adder 0 22 OFM;UFDEE@SLK=>fbc9;n2
+l13
+L12
+V8`fOE;LT>0;cJoU_KaKUG1
+!s100 ACTGgR_H^HQ0RD>1H2]?Z3
+R6
+32
+R39
+!i10b 1
+R42
+R76
+R77
+!i113 1
+R11
+R12
+Einstruction_memory
+Z78 w1743632616
+R63
+R2
+R3
+R0
+Z79 8C:/Users/lushi/Desktop/VHDL/lab9/instruction_memory.vhd
+Z80 FC:/Users/lushi/Desktop/VHDL/lab9/instruction_memory.vhd
+l0
+L42
+V_ozT3RX8mNC_5<<d[g]`l3
+!s100 EJSIoZ[g4GHZQBmFYUJJK1
+R6
+32
+R39
+!i10b 1
+R42
+Z81 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/instruction_memory.vhd|
+Z82 !s107 C:/Users/lushi/Desktop/VHDL/lab9/instruction_memory.vhd|
+!i113 1
+R11
+R12
+Asyn
+R63
+R2
+R3
+DEx4 work 18 instruction_memory 0 22 _ozT3RX8mNC_5<<d[g]`l3
+l58
+L54
+VTDoiiaUk_RIKF;bO7U0Yi1
+!s100 K[IHS9o=[i]g<c3]7O7Ve2
+R6
+32
+R39
+!i10b 1
+R42
+R81
+R82
+!i113 1
+R11
+R12
+Emips_cpu
+Z83 w1744436053
+R40
+R41
+R2
+R3
+R0
+Z84 8C:/Users/lushi/Desktop/VHDL/lab9/mips_cpu.vhd
+Z85 FC:/Users/lushi/Desktop/VHDL/lab9/mips_cpu.vhd
+l0
+L8
+VjD`6@kJdigj[;JSfaen6Y0
+!s100 31A;j20W8PhdNQnia8VnT2
+R6
+32
+Z86 !s110 1744489917
+!i10b 1
+Z87 !s108 1744489917.000000
+Z88 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/mips_cpu.vhd|
+Z89 !s107 C:/Users/lushi/Desktop/VHDL/lab9/mips_cpu.vhd|
+!i113 1
+R11
+R12
+Amips_cpu_arch
+R40
+R41
+R2
+R3
+Z90 DEx4 work 8 mips_cpu 0 22 jD`6@kJdigj[;JSfaen6Y0
+l42
+L13
+Z91 VkjQdkHJEhEe2g9m094H<M0
+Z92 !s100 Z8DOYo=>O`j8^HgKm>z0_1
+R6
+32
+R86
+!i10b 1
+R87
+R88
+R89
+!i113 1
+R11
+R12
+Emux_2to1
+Z93 w1743740515
+R41
+R24
+R2
+R3
+R0
+Z94 8C:/Users/lushi/Desktop/VHDL/lab9/mux2to1.vhd
+Z95 FC:/Users/lushi/Desktop/VHDL/lab9/mux2to1.vhd
+l0
+L8
+Vgi?lKnGbH=f?AL1CO7SWG3
+!s100 9f[9S]<3YPm=H_TeOTklP0
+R6
+32
+R39
+!i10b 1
+R42
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/mux2to1.vhd|
+Z97 !s107 C:/Users/lushi/Desktop/VHDL/lab9/mux2to1.vhd|
+!i113 1
+R11
+R12
+Amux_2to1_arch
+R41
+R24
+R2
+R3
+DEx4 work 8 mux_2to1 0 22 gi?lKnGbH=f?AL1CO7SWG3
+l17
+L16
+VIDOVQ9N1=XjAJDG6<><k73
+!s100 a[KDm9ZV@0bP0OBFi>l030
+R6
+32
+R39
+!i10b 1
+R42
+R96
+R97
+!i113 1
+R11
+R12
+Emux_2to1_5bits
+Z98 w1743739061
+R41
+R24
+R2
+R3
+R0
+Z99 8C:/Users/lushi/Desktop/VHDL/lab9/mux2to1_5bits.vhd
+Z100 FC:/Users/lushi/Desktop/VHDL/lab9/mux2to1_5bits.vhd
+l0
+L8
+VBSbYiBO2TG73=Dd?IX5fP1
+!s100 l?z7okOGDVI@FfOCQ:o>N1
+R6
+32
+R39
+!i10b 1
+R42
+Z101 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/mux2to1_5bits.vhd|
+Z102 !s107 C:/Users/lushi/Desktop/VHDL/lab9/mux2to1_5bits.vhd|
+!i113 1
+R11
+R12
+Amux_2to1_5bits_arch
+R41
+R24
+R2
+R3
+DEx4 work 14 mux_2to1_5bits 0 22 BSbYiBO2TG73=Dd?IX5fP1
+l17
+L16
+VcinmITIT=1H6giQ2h^h`73
+!s100 NJ=lX;C5odUz[TmM@3Ie>2
+R6
+32
+R39
+!i10b 1
+R42
+R101
+R102
+!i113 1
+R11
+R12
+Emux_32to1
+Z103 w1743739070
+R41
+R24
+R2
+R3
+R0
+Z104 8C:/Users/lushi/Desktop/VHDL/lab9/mux32to1.vhd
+Z105 FC:/Users/lushi/Desktop/VHDL/lab9/mux32to1.vhd
+l0
+L8
+VQoSPnD<h[d7EH:<og_Ii81
+!s100 X:n@BjEa8e2fgW]cH8fj_3
+R6
+32
+R39
+!i10b 1
+R42
+Z106 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/mux32to1.vhd|
+Z107 !s107 C:/Users/lushi/Desktop/VHDL/lab9/mux32to1.vhd|
+!i113 1
+R11
+R12
+Amux_32to1_arch
+R41
+R24
+R2
+R3
+DEx4 work 9 mux_32to1 0 22 QoSPnD<h[d7EH:<og_Ii81
+l17
+L16
+VSZE^J4FlzFC]VOdWM0G>G3
+!s100 ^Ui?V4fh;1h4al2OQ]LoG0
+R6
+32
+R39
+!i10b 1
+R42
+R106
+R107
+!i113 1
+R11
+R12
+Emux_nto1
+Z108 w1743127190
+R24
+R2
+R3
+R0
+Z109 8C:/Users/lushi/Desktop/VHDL/lab9/muxno1.vhd
+Z110 FC:/Users/lushi/Desktop/VHDL/lab9/muxno1.vhd
+l0
+L5
+VcgKVhF@DE53PJWDOV`FbT3
+!s100 N=6K?5?h1H>mE76FmPZeW3
+R6
+32
+R39
+!i10b 1
+R42
+Z111 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/muxno1.vhd|
+Z112 !s107 C:/Users/lushi/Desktop/VHDL/lab9/muxno1.vhd|
+!i113 1
+R11
+R12
+Amux_nto1_arch
+R24
+R2
+R3
+DEx4 work 8 mux_nto1 0 22 cgKVhF@DE53PJWDOV`FbT3
+l18
+L17
+V?3?U4We^^h8<jh^AQQ51n0
+!s100 XIS<W^lVaK2>b`A@DYd7K0
+R6
+32
+R39
+!i10b 1
+R42
+R111
+R112
+!i113 1
+R11
+R12
+Pmy_components
+R41
+R2
+R3
+w1744435047
+R0
+8C:/Users/lushi/Desktop/VHDL/lab9/package_file.vhd
+FC:/Users/lushi/Desktop/VHDL/lab9/package_file.vhd
+l0
+L7
+V=1QY[8oSf[MGzKElhC=N;2
+!s100 VB45K[WPUHUMl]g7Nc00F0
+R6
+32
+R39
+!i10b 1
+R42
+!s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/package_file.vhd|
+!s107 C:/Users/lushi/Desktop/VHDL/lab9/package_file.vhd|
+!i113 1
+R11
+R12
+Pmy_types
+R2
+R3
+w1743739049
+R0
+8C:/Users/lushi/Desktop/VHDL/lab9/types_package.vhd
+FC:/Users/lushi/Desktop/VHDL/lab9/types_package.vhd
+l0
+L4
+VI[=nP2f8<dDCXfXhP[[@60
+!s100 i^6VN]:YW_UIcGdX@C0ES3
+R6
+32
+Z113 !s110 1744489911
+!i10b 1
+Z114 !s108 1744489911.000000
+!s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/types_package.vhd|
+!s107 C:/Users/lushi/Desktop/VHDL/lab9/types_package.vhd|
+!i113 1
+R11
+R12
+En_register
+Z115 w1744489834
+R2
+R3
+R0
+Z116 8C:/Users/lushi/Desktop/VHDL/lab9/n_register.vhd
+Z117 FC:/Users/lushi/Desktop/VHDL/lab9/n_register.vhd
+l0
+L4
+V2an^<l4dI8=i5f^jhjD<A0
+!s100 HdP:3F=5:=9H<H>H`PehL1
+R6
+32
+Z118 !s110 1744489914
+!i10b 1
+Z119 !s108 1744489914.000000
+Z120 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/n_register.vhd|
+Z121 !s107 C:/Users/lushi/Desktop/VHDL/lab9/n_register.vhd|
+!i113 1
+R11
+R12
+An_register_arch
+R2
+R3
+DEx4 work 10 n_register 0 22 2an^<l4dI8=i5f^jhjD<A0
+l23
+L14
+VM6LM4W1B>Pel`dCYnJ`U41
+!s100 jMUIb2:80B;HSHLhTG^5?0
+R6
+32
+R118
+!i10b 1
+R119
+R120
+R121
+!i113 1
+R11
+R12
+Enbit_add_sub
+Z122 w1742509165
+R2
+R3
+R0
+Z123 8C:/Users/lushi/Desktop/VHDL/lab9/nbit_add_sub.vhd
+Z124 FC:/Users/lushi/Desktop/VHDL/lab9/nbit_add_sub.vhd
+l0
+L4
+V3Rem?AGA20TRDXVa9>IQz0
+!s100 NWOP4mTfe^lM4D<jeUETC1
+R6
+32
+R39
+!i10b 1
+R42
+Z125 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/nbit_add_sub.vhd|
+Z126 !s107 C:/Users/lushi/Desktop/VHDL/lab9/nbit_add_sub.vhd|
+!i113 1
+R11
+R12
+Anbit_add_sub_arch
+R2
+R3
+DEx4 work 12 nbit_add_sub 0 22 3Rem?AGA20TRDXVa9>IQz0
+l31
+L18
+VT0>K2G5S:TYA<=5NFUh2e1
+!s100 Wz?5_c;T?_AjFO@Qi8dED3
+R6
+32
+R39
+!i10b 1
+R42
+R125
+R126
+!i113 1
+R11
+R12
+Eregister_file
+Z127 w1744437340
+R41
+R24
+R2
+R3
+R0
+Z128 8C:/Users/lushi/Desktop/VHDL/lab9/register_file.vhd
+Z129 FC:/Users/lushi/Desktop/VHDL/lab9/register_file.vhd
+l0
+L11
+V=n`A0=`2V@lBUZZLb]]?`0
+!s100 ]8AdW8]99mK?V8jRU?>Og2
+R6
+32
+R113
+!i10b 1
+R42
+Z130 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/register_file.vhd|
+Z131 !s107 C:/Users/lushi/Desktop/VHDL/lab9/register_file.vhd|
+!i113 1
+R11
+R12
+Aregister_file_arch
+R41
+R24
+R2
+R3
+DEx4 work 13 register_file 0 22 =n`A0=`2V@lBUZZLb]]?`0
+l59
+L25
+VeI?jF7Ej5W]Fk84N:?VP83
+!s100 Ih5m3bmkXDShW>4<TUOj53
+R6
+32
+R113
+!i10b 1
+R42
+R130
+R131
+!i113 1
+R11
+R12
+Esign_extend
+Z132 w1742568305
+R2
+R3
+R0
+Z133 8C:/Users/lushi/Desktop/VHDL/lab9/sign_extend.vhd
+Z134 FC:/Users/lushi/Desktop/VHDL/lab9/sign_extend.vhd
+l0
+L4
+VUa@Y5RM0`A>@6_j0cK;f01
+!s100 ;b;Y@EoXdz]=RZbYRN>NB1
+R6
+32
+R113
+!i10b 1
+R114
+Z135 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/sign_extend.vhd|
+Z136 !s107 C:/Users/lushi/Desktop/VHDL/lab9/sign_extend.vhd|
+!i113 1
+R11
+R12
+Asign_extend_arch
+R2
+R3
+DEx4 work 11 sign_extend 0 22 Ua@Y5RM0`A>@6_j0cK;f01
+l13
+L10
+VQ^DCgBUj=4WR=LO5dYC]33
+!s100 PdQ0T52<7TFO1[ebgSd2a0
+R6
+32
+R113
+!i10b 1
+R114
+R135
+R136
+!i113 1
+R11
+R12
+Esr_latch
+Z137 w1742509168
+R2
+R3
+R0
+Z138 8C:/Users/lushi/Desktop/VHDL/lab9/SR_Latch.vhd
+Z139 FC:/Users/lushi/Desktop/VHDL/lab9/SR_Latch.vhd
+l0
+L4
+VHb1HJAhBHAfWUeWF1CFGb0
+!s100 Pe0YX6P9;_D8`i5AXPL2Q2
+R6
+32
+R113
+!i10b 1
+R114
+Z140 !s90 -reportprogress|300|-work|work|C:/Users/lushi/Desktop/VHDL/lab9/SR_Latch.vhd|
+Z141 !s107 C:/Users/lushi/Desktop/VHDL/lab9/SR_Latch.vhd|
+!i113 1
+R11
+R12
+Asr_latch_arch
+R2
+R3
+DEx4 work 8 sr_latch 0 22 Hb1HJAhBHAfWUeWF1CFGb0
+l14
+L11
+V:fAI43fL`CWhiF[kDC9H82
+!s100 N2HJ>6CnT3V8[3cFl@gUS3
+R6
+32
+R113
+!i10b 1
+R114
+R140
+R141
+!i113 1
+R11
+R12

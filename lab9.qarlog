@@ -1,0 +1,41 @@
+Quartus Prime Archive log --	C:/Users/lushi/Desktop/VHDL/lab9/lab9.qarlog
+
+Archive:	C:/Users/lushi/Desktop/VHDL/lab9/lab9.qar
+Date:		Fri Apr 25 09:44:10 2025
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/lushi/Desktop/VHDL/lab9/ALU_1bit.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/ALU_1bit_MSB.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/ALU_32bit.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/ALU_32bit_tb.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/ALU_Control_Unit.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop_Negative_Edge.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/D_FlipFlop_Rising_edge.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/D_Latch.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/SR_Latch.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/control_unit.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/cpu_mips.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/data_memory.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/decoder.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/full_adder.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/instruction_memory.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/lab9.qpf
+C:/Users/lushi/Desktop/VHDL/lab9/lab9.qsf
+C:/Users/lushi/Desktop/VHDL/lab9/mips_cpu.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/mux2to1.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/mux2to1_5bits.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/mux32to1.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/muxno1.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/n_register.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/nbit_add_sub.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/package_file.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/register_file.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/sign_extend.vhd
+C:/Users/lushi/Desktop/VHDL/lab9/types_package.vhd
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 30 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
